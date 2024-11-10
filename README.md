@@ -1,9 +1,9 @@
 # Documentación del Proyecto: Teorema de Pitágoras en React
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/user-attachments/assets/db944796-4ab7-4e23-99f0-524e564cd8bd" alt="Imagen 1" width="310" title="Componente App.jsx"/>
-    <img src="https://github.com/user-attachments/assets/e8e0e42a-a446-4c5a-825a-de579e8b0a66" alt="Imagen 2" width="310" title="Componente teorema-pitagora.jsx"/>
-    <img src="https://github.com/user-attachments/assets/f2b66403-02ac-49a1-8f4d-625e2780e00c" alt="Imagen 3" width="310" title="Componente nota-pitagora.jsx"/>
+    <img src="https://github.com/user-attachments/assets/db944796-4ab7-4e23-99f0-524e564cd8bd" alt="Imagen 1" width="200" title="Componente App.jsx"/>
+    <img src="https://github.com/user-attachments/assets/e8e0e42a-a446-4c5a-825a-de579e8b0a66" alt="Imagen 2" width="200" title="Componente teorema-pitagora.jsx"/>
+    <img src="https://github.com/user-attachments/assets/f2b66403-02ac-49a1-8f4d-625e2780e00c" alt="Imagen 3" width="200" title="Componente nota-pitagora.jsx"/>
 </div>
 
 ## Descripción:
